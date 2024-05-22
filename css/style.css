@@ -1,0 +1,331 @@
+body {
+  margin: 0;
+line-height: normal;
+}
+
+.desktop-1-child {
+position: absolute;
+top: 0px;
+left: 0px;
+border-radius: 4px;
+background-color: rgba(228, 75, 27, 0.75);
+width: 1440px;
+height: 152px;
+}
+.confortfoods {
+position: absolute;
+top: 36px;
+left: 563px;
+font-size: 64px;
+font-family: Dokdo;
+color: #fff;
+}
+.pizzas {
+position: absolute;
+top: 290px;
+left: 79px;
+font-size: 48px;
+font-family: Dokdo;
+color: #ea7551;
+}
+.desktop-1-item {
+position: absolute;
+top: 392px;
+left: 79px;
+border-radius: 8px;
+width: 284px;
+height: 284px;
+object-fit: cover;
+}
+.smile-icon {
+position: absolute;
+top: 32px;
+left: 416px;
+width: 104px;
+height: 88px;
+}
+.menu {
+position: absolute;
+top: 210px;
+left: 497px;
+font-size: 68px;
+font-family: Dokdo;
+white-space: pre-wrap;
+display: inline-block;
+width: 288px;
+height: 238px;
+}
+.desktop-1-inner {
+position: absolute;
+top: 790px;
+left: 79px;
+border-radius: 12px;
+width: 284px;
+height: 296px;
+object-fit: cover;
+}
+.pizza-de-calabresa {
+position: absolute;
+top: 392px;
+left: 421px;
+font-weight: 600;
+}
+.burger-salad-r {
+position: absolute;
+top: 1849px;
+left: 449px;
+font-weight: 600;
+white-space: pre-wrap;
+}
+.burger-bacon-duplo {
+position: absolute;
+top: 2267px;
+left: 449px;
+font-weight: 600;
+white-space: pre-wrap;
+}
+.extreme-burger-catupiry {
+position: absolute;
+top: 2669px;
+left: 458px;
+font-weight: 600;
+white-space: pre-wrap;
+}
+.pizza-de-4 {
+position: absolute;
+top: 800px;
+left: 421px;
+font-weight: 600;
+}
+.pizza-de-frango {
+position: absolute;
+top: 1236px;
+left: 435px;
+font-weight: 600;
+}
+.grande {
+position: absolute;
+top: 800px;
+left: 703px;
+font-weight: 600;
+}
+.grande1 {
+position: absolute;
+top: 1236px;
+left: 800px;
+font-weight: 600;
+}
+.grande2 {
+position: absolute;
+top: 392px;
+left: 701px;
+font-weight: 600;
+}
+.r-3590 {
+position: absolute;
+top: 392px;
+left: 835px;
+font-weight: 600;
+}
+.r-35901 {
+position: absolute;
+top: 800px;
+left: 835px;
+font-weight: 600;
+}
+.r-35902 {
+position: absolute;
+top: 1233px;
+left: 937px;
+font-weight: 600;
+}
+.rectangle-div {
+position: absolute;
+top: 432px;
+left: 839px;
+background-color: #ff5824;
+width: 131px;
+height: 1px;
+}
+.desktop-1-child1 {
+position: absolute;
+top: 840px;
+left: 839px;
+background-color: #ff5824;
+width: 131px;
+height: 1px;
+}
+.desktop-1-child2 {
+position: absolute;
+top: 1273px;
+left: 941px;
+background-color: #ff5824;
+width: 131px;
+height: 1px;
+}
+.desktop-1-child3 {
+position: absolute;
+top: 1884px;
+left: 642px;
+background-color: #ff5824;
+width: 131px;
+height: 1px;
+}
+.desktop-1-child4 {
+position: absolute;
+top: 2302px;
+left: 745px;
+background-color: #ff5824;
+width: 131px;
+height: 1px;
+}
+.desktop-1-child5 {
+position: absolute;
+top: 2705px;
+left: 824px;
+background-color: #ff5824;
+width: 131px;
+height: 1px;
+}
+.a-pizza-quatro {
+position: absolute;
+top: 863px;
+left: 421px;
+font-size: 24px;
+color: #666464;
+display: inline-block;
+width: 635px;
+height: 169px;
+}
+.desktop-1-child6 {
+position: absolute;
+top: 545px;
+left: -347px;
+background-color: #d9d9d9;
+width: 284px;
+height: 118px;
+}
+.burger-salad {
+position: absolute;
+top: 1563px;
+left: -293px;
+font-weight: 600;
+font-family: 'Fira Sans';
+display: inline-block;
+width: 193px;
+height: 39px;
+}
+.lanches {
+position: absolute;
+top: 1716px;
+left: 112px;
+font-size: 48px;
+font-family: Dokdo;
+color: #ea7551;
+}
+.rectangle-icon {
+position: absolute;
+top: 2669px;
+left: 93px;
+border-radius: 8px;
+width: 284px;
+height: 296px;
+object-fit: cover;
+}
+.desktop-1-child7 {
+position: absolute;
+top: 2267px;
+left: 93px;
+border-radius: 8px;
+width: 284px;
+height: 296px;
+object-fit: cover;
+}
+.desktop-1-child8 {
+position: absolute;
+top: 1830px;
+left: 93px;
+border-radius: 8px;
+width: 284px;
+height: 285px;
+object-fit: cover;
+}
+.desktop-1-child9 {
+position: absolute;
+top: 1238px;
+left: 93px;
+border-radius: 12px;
+width: 284px;
+height: 296px;
+object-fit: cover;
+}
+.a-pizza-de {
+position: absolute;
+top: 455px;
+left: 418px;
+font-size: 24px;
+color: rgba(0, 0, 0, 0.67);
+display: inline-block;
+width: 670px;
+height: 172px;
+}
+.a-pizza-de1 {
+position: absolute;
+top: 1299px;
+left: 436px;
+font-size: 24px;
+color: #787575;
+display: inline-block;
+width: 692px;
+height: 199px;
+}
+.desktop-1-child10 {
+position: absolute;
+top: 1634px;
+left: 112px;
+background-color: #ea7551;
+width: 1280px;
+height: 2px;
+}
+.burger-saboroso-com {
+position: absolute;
+top: 1912px;
+left: 449px;
+font-size: 24px;
+color: #807d7d;
+display: inline-block;
+width: 637px;
+height: 100px;
+}
+.burger-saboroso-com1 {
+position: absolute;
+top: 2330px;
+left: 449px;
+font-size: 24px;
+color: #807d7d;
+display: inline-block;
+width: 637px;
+height: 100px;
+}
+.burger-saboroso-com2 {
+position: absolute;
+top: 2733px;
+left: 453px;
+font-size: 24px;
+color: #807d7d;
+display: inline-block;
+width: 637px;
+height: 100px;
+}
+.desktop-1 {
+width: 100%;
+position: relative;
+background-color: rgba(250, 239, 239, 0.83);
+height: 3116px;
+overflow: hidden;
+text-align: left;
+font-size: 28px;
+color: #000;
+font-family: Sora;
+}
+
